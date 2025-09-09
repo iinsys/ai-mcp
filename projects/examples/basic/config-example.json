@@ -1,0 +1,19 @@
+{
+  "mcpServers": {
+    "template": {
+      "command": "python",
+      "args": ["../../mcp-servers/template/server.py"],
+      "disabled": false,
+      "autoApprove": ["echo"],
+      "env": {
+        "LOG_LEVEL": "INFO"
+      }
+    },
+    "weather-example": {
+      "command": "uvx",
+      "args": ["weather-mcp-server"],
+      "disabled": true,
+      "autoApprove": []
+    }
+  }
+}
