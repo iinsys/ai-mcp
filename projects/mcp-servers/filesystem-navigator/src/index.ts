@@ -9,12 +9,6 @@ async function main() {
     {
       name: 'filesystem-navigator',
       version: '1.0.0',
-    },
-    {
-      capabilities: {
-        tools: {},
-        resources: {},
-      },
     }
   );
 
