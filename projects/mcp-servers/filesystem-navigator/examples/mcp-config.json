@@ -1,0 +1,21 @@
+{
+  "mcpServers": {
+    "filesystem-navigator": {
+      "command": "node",
+      "args": ["../dist/index.js"],
+      "disabled": false,
+      "autoApprove": [
+        "search_files",
+        "read_directory", 
+        "get_file_info",
+        "read_file_content"
+      ],
+      "env": {
+        "FS_ROOT_PATH": "/Users/james/Desktop/dev/personal-projects/ai-projects/ai-mcp",
+        "FS_MAX_DEPTH": "5",
+        "FS_MAX_FILE_SIZE": "1048576",
+        "LOG_LEVEL": "INFO"
+      }
+    }
+  }
+}
