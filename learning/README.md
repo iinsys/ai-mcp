@@ -51,5 +51,6 @@ This directory is designed for:
 - Share your experiments
 - Document interesting findings
 - Help others learn
+- [See kodecloud mcp for beginners]([uv run python complete_client.py](https://learn.kodekloud.com/user/courses/crash-course-mcp-for-beginners)
 
 Remember: This is a safe space to experiment and make mistakes!
