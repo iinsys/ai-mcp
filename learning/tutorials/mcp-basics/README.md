@@ -230,3 +230,11 @@ Now that you understand MCP basics:
 - It's designed specifically for AI interaction patterns
 
 Ready to build your first MCP server? Check out [Your First Server](../first-server/) tutorial!
+
+## Where to find MCP servers 
+- [Postman ](https://www.postman.com/explore/mcp-generator)
+- [Opentools](https://opentools.com/)
+- [smithery ai](https://smithery.ai/)
+- [punkpeye](https://github.com/punkpeye/awesome-mcp-servers)
+- [npm](https://www.npmjs.com/package/@modelcontextprotocol/sdk)
+- [Anthropic](https://www.npmjs.com/package/@modelcontextprotocol/sdk)
